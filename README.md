@@ -1,3 +1,6 @@
+#Adapted from the On-Scroll animation site
+
+
 # On-Scroll Image Layout Animations
 
 An exploration of different scroll based layout switch animations.
